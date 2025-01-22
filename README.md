@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, Linux,JavaScript.<br>🌱 I'm currently studying BCA<br>⚡ I'm currently using Arch Linux<br>
+🌱 I’m currently learning Python, Linux, JavaScript.<br>🌱 I'm learning to write good code.<br>⚡ I'm currently using Arch Linux<br>
 😄 Pronouns:He/Him<br>
 📫 How to reach me:thapasvt12@gmail.com
 
