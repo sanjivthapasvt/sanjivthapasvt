@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sanjivthapasvt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjivthapasvt&icon=1&color=1)](https://visitcount.itsvg.in)
+
 
 [![Sanjiv Thapa profile views](https://u8views.com/api/v1/github/profiles/154358088/views/total-count.svg)](https://u8views.com/github/sanjivthapasvt)
 
