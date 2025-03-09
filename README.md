@@ -1,4 +1,4 @@
-# 💫 About Me:[![Sanjiv Thapa profile views](https://u8views.com/api/v1/github/profiles/154358088/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjivthapasvt)
+# 💫 About Me:
 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.<br>🌱 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️<br>⚡ I use Arch Linux + Hyprland<br>🍃 I should touch grass, but the grass ran<br>😄 Pronouns:He/Him<br>📫 How to reach me:thapasvt12@gmail.com
 
 
@@ -22,7 +22,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sanjivthapasvt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjivthapasvt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sanjivthapasvt&icon=1&color=1)](https://visitcount.itsvg.in)
+
+[![Sanjiv Thapa profile views](https://u8views.com/api/v1/github/profiles/154358088/views/total-count.svg)](https://u8views.com/github/sanjivthapasvt)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanjivthapa) 
