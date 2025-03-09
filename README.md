@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Tech Enthusiast who likes to play around with Computers and stuff.<br>🌱 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️<br>⚡ I use Arch Linux + Hyprland<br>🍃 I should touch grass, but the grass ran<br>😄 Pronouns:He/Him<br>📫 How to reach me:thapasvt12@gmail.com
+🔭 I'm a Tech Enthusiast who likes to play around with Computers and stuff.<br>🌱 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️<br>⚡ I use Arch Linux + Hyprland<br> Pronouns:He/Him<br>📫 How to reach me:thapasvt12@gmail.com
 
 
 ## 🌐 Socials:
