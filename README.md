@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:[![Sanjiv Thapa profile views](https://u8views.com/api/v1/github/profiles/154358088/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjivthapasvt)
 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.<br>🌱 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️<br>⚡ I use Arch Linux + Hyprland<br>🍃 I should touch grass, but the grass ran<br>😄 Pronouns:He/Him<br>📫 How to reach me:thapasvt12@gmail.com
 
 
