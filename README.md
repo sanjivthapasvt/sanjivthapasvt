@@ -1,6 +1,18 @@
-# 💫 About Me:
-🔭 I'm a Tech Enthusiast who likes to play around with Computers and stuff <br>🌱 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️<br>⚡ I use Arch Linux + Hyprland<br> 📫 How to reach me:thapasvt12@gmail.com
+<h1 align="center">Hi 👋, I'm Sanjiv Thapa</h1>
+<h3 align="center">🔭 A Tech Enthusiast who likes to play around with Computers and stuff</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sanjivthapasvt&label=Profile%20views&color=0e75b6&style=flat" alt="sanjivthapasvt" /> </p>
 
+# 💫 About Me:
+
+- 🌱 I’m currently learning **FastAPI, Django**
+
+- 👨‍💻 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️
+
+- 💬 Ask me about **Linux**
+
+- 📫 How to reach me **thapasvt12@gmail.com**
+
+- ⚡ Fun fact **I use Arch btw**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjiv.thapa.svt012) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjivthapasvt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjiv-thapa-361678277) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sanjivthapasvt) 
@@ -23,8 +35,6 @@
 
 ---
 
-
-[![Sanjiv Thapa profile views](https://u8views.com/api/v1/github/profiles/154358088/views/total-count.svg)](https://u8views.com/github/sanjivthapasvt)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanjivthapa) 
