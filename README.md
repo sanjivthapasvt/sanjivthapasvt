@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **anything, Except Maths 😅**
 
 - 📫 How to reach me **thapasvt12@gmail.com**
 
