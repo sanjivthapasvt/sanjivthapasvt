@@ -4,8 +4,6 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **FastAPI, Django**
-
 - 👨‍💻 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️
 
 - 💬 Ask me about **anything, Except Maths 😅**
