@@ -20,8 +20,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanjivthapasvt/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200"/>
-  &nbsp;&nbsp;&nbsp;  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sanjivthapasvt&theme=dark&hide_border=false" height="190" alt="stats graph" />
+  &nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sanjivthapasvt&theme=dark&hide_border=false" height="200" width="490" alt="stats graph" />
 </p>
 
 
