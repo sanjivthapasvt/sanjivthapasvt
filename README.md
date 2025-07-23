@@ -19,9 +19,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjivthapasvt/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjivthapasvt&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" height="210" alt="stats graph" />
   &nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sanjivthapasvt&theme=dark&hide_border=false" height="200" width="490" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/sanjivthapasvt/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200"/>
 </p>
 
 
