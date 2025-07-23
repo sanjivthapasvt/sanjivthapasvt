@@ -19,8 +19,8 @@
 # 📊 GitHub Stats:
 
 <p>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=sanjivthapasvt&theme=dark&hide_border=false" height="195" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/sanjivthapasvt/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sanjivthapasvt&theme=dark&hide_border=false" height="190" alt="stats graph" />
 </p>
 
 
