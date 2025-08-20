@@ -63,16 +63,16 @@
 <div align="center">
 
 ### 🎨 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,vite,electron" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,svelte,tailwind,next,electron" alt="Frontend Skills"/>
 
 ### ⚙️ **Backend**
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,bun" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,flask" alt="Backend Skills"/>
 
 ### 🗄️ **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,redis,supabase" alt="Database Skills"/>
 
 ### 🚀 **DevOps & Deployment**
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare" alt="DevOps Skills"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,cloudflare" alt="DevOps Skills"/>
 
 ### 🛠️ **Tools & Environment**
 <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,linux,arch,bash" alt="Tools"/>
