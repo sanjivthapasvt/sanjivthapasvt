@@ -1,40 +1,143 @@
-<h1 align="center">Hi 👋, I'm Sanjiv Thapa</h1>
-<h3 align="center">🔭 A Tech Enthusiast who likes to play around with Computers and stuff</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sanjivthapasvt&label=Profile%20views&color=0e75b6&style=flat" alt="sanjivthapasvt" /> </p>
+<div align="center">
 
-# 💫 About Me:
+# 👋 Hi, I'm **Sanjiv Thapa**
 
-- 👨‍💻 I’m currently learning how to code properly and I have at least learnt something, I think… 🤷‍♂️
+### 🔭 Tech Enthusiast | 💻 Developer | 👨‍💻 Learner
 
-- 💬 Ask me about **anything, Except Maths 😅**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
 
-- 📫 How to reach me **thapasvt12@gmail.com**
-
-- ⚡ Fun fact **I use Arch btw**
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjiv.thapa.svt012) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjivthapasvt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjiv-thapa-361678277) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sanjivthapasvt) 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-
+</div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjivthapasvt&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" height="210" alt="stats graph" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sanjivthapasvt/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200"/>
+  <img src="https://komarev.com/ghpvc/?username=sanjivthapasvt&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </p>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanjivthapasvt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjivthapasvt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
+<div align="center">
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanjivthapa) 
+## 🌟 **About Me**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div align="center">
+
+| 💡 **Currently** | 🎯 **Interests** |
+|------------------|------------------|
+| 🎯 **Learning** how to code <br> 🔍 **Exploring** modern tech stacks <br> 🛠️ **Building** cool projects | 💬 **Discuss** anything tech related<br> 🐧 **Linux** enthusiast (Arch BTW!) <br> ⚡ **Open Source** tech lover |
+
+</div>
+
+<div align="center">
+
+📧 **Get in touch:** [thapasvt12@gmail.com](mailto:thapasvt12@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **Connect With Me**
+
+<a href="https://linkedin.com/in/sanjiv-thapa-361678277">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://youtube.com/@sanjivthapasvt">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://instagram.com/sanjivthapasvt">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://facebook.com/sanjiv.thapa.svt012">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 **Tech Stack:**
+
+</div>
+
+<div align="center">
+
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,vite,electron" alt="Frontend Skills"/>
+
+### ⚙️ **Backend**
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,bun" alt="Backend Skills"/>
+
+### 🗄️ **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,redis,supabase" alt="Database Skills"/>
+
+### 🚀 **DevOps & Deployment**
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare" alt="DevOps Skills"/>
+
+### 🛠️ **Tools & Environment**
+<img src="https://skillicons.dev/icons?i=vscode,neovim,postman,linux,arch,bash" alt="Tools"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjivthapasvt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjivthapasvt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages"/>
+</div>
+
+<div align="center">
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **Achievements**
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjivthapasvt&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjivthapasvt&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💝 **Support My Journey**
+
+*If you find my work valuable, consider supporting me!*
+
+<a href="https://ko-fi.com/sanjivthapa">
+  <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is poetry written in logic"* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+</div>
