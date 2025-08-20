@@ -4,14 +4,12 @@
 
 ### 🔭 Tech Enthusiast | 💻 Developer | 👨‍💻 Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=5576F7FF&center=true&pause=5000000000&vCenter=true&width=600&height=100&lines=Tech+Enthuiast+who+likes+to+play+around+computers" alt="Typing SVG" />
 
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjivthapasvt&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sanjivthapasvt&label=Profile%20Views&color=5576F7&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
 
 <div align="center">
 
@@ -23,7 +21,7 @@
 
 | 💡 **Currently** | 🎯 **Interests** |
 |------------------|------------------|
-| 🎯 **Learning** how to code <br> 🔍 **Exploring** modern tech stacks <br> 🛠️ **Building** cool projects | 💬 **Discuss** anything tech related<br> 🐧 **Linux** enthusiast (Arch BTW!) <br> ⚡ **Open Source** tech lover |
+| 🎯 **Learning** how to code <br><br> 🔍 **Exploring** modern tech stacks <br><br> 🛠️ **Building** cool projects | 💬 **Discuss** anything tech related<br><br> 🐧 **Linux** enthusiast (Arch BTW!) <br><br> ⚡ **Open Source** Tech |
 
 </div>
 
