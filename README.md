@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Sanjiv Thapa**
 
-### 🔭 Tech Enthusiast | 💻 Developer | 👨‍💻 Learner
+### 🔭 Tech Enthusiast | 💻 Developer | 👨‍💻 Active Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&color=5576F7FF&center=true&pause=5000000000&vCenter=true&width=600&height=100&lines=Tech+Enthuiast+who+likes+to+play+around+computers" alt="Typing SVG" />
 
