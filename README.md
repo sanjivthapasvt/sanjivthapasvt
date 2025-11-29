@@ -27,7 +27,7 @@
 
 <div align="center">
 
-📧 **Get in touch:** [thapasvt12@gmail.com](mailto:thapasvt12@gmail.com)
+📧 **Get in touch:** [contact@sanjivthapa.com.np](mailto:contact@sanjivthapa.com.np)
 
 </div>
 
